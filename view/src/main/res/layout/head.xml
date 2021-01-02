@@ -6,11 +6,11 @@
     <ImageView
         android:layout_width="0dp"
         android:layout_height="match_parent"
+        android:layout_marginStart="10dp"
         android:layout_weight="1"
         android:clickable="true"
         android:padding="5dp"
-        android:layout_marginStart="10dp"
-        />
+        android:src="@drawable/selector_btn_back" />
 
     <TextView
         android:layout_width="0dp"
