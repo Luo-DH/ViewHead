@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HeadView">
+        <!-- 显示的文字 -->
+        <attr name="headTitle" format="string" />
+    </declare-styleable>
+</resources>
